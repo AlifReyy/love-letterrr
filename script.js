@@ -1,8 +1,8 @@
 function acceptLove() {
-    document.getElementById("response").textContent = "Aku sangat senang! Terima kasih sudah menerima perasaanku ❤️";
+    document.getElementById("response").textContent = "Aku sangat senang!";
   }
   
   function rejectLove() {
-    document.getElementById("response").textContent = "Tidak apa-apa, aku tetap menghargaimu dan berharap kamu bahagia 😊";
+    document.getElementById("response").textContent = "Aku harap kita tetap menjadi teman";
   }
   README.md
