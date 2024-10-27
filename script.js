@@ -5,4 +5,4 @@ function acceptLove() {
   function rejectLove() {
     document.getElementById("response").textContent = "Tidak apa-apa, aku tetap menghargaimu dan berharap kamu bahagia 😊";
   }
-  
+  README.md
